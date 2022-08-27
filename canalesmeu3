@@ -4063,8 +4063,8 @@ http://198.245.53.172:8970/live/4SZPQ359QQEZ/W24T85NR9CPT/226861.ts
 http://198.245.53.172:8970/live/4SZPQ359QQEZ/W24T85NR9CPT/226862.ts
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 The New Adventures of Jonny Quest"  group-title="TV | 24/7 ANIMADOS RETRO",24/7 The New Adventures of Jonny Quest
 http://198.245.53.172:8970/live/4SZPQ359QQEZ/W24T85NR9CPT/222708.ts
-#EXTINF:-1,FORO TV2 720 www.achoAPPS.com
-http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES | Antena 5"  group-title="TV | ESPAÑA",ES | Antena 5
+http://198.245.53.172:8970/live/4SZPQ359QQEZ/W24T85NR9CPT/228631.ts
 
 
 
