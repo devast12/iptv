@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1,SPA |Canal  21 Mega visión
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1,SPA |DW ESPAÑOL
@@ -8,5 +7,69 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/34566
 #EXTINF:-1,SPA |TELEFE ARG
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3199
-#EXTINF:-1,SPA |STAR CHANEL 
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/280374
+#EXTINF:-1,SPA |STAR CHANNEL 
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/280386
+#EXTINF:-1,SPA |TNT SPORT
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3204
+#EXTINF:-1,SPA |D PELICULA MX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31740
+#EXTINF:-1,SPA |DISTRITO COMEDIA MX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9126
+#EXTINF:-1,SPA |DISNEY JUNIOR MX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9042
+#EXTINF:-1,SPA |DREAM WORKS MX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298055
+#EXTINF:-1,SPA |ESPN MX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9070
+#EXTINF:-1,SPA |ESPN 2 MX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298057
+#EXTINF:-1,SPA |ESPN 3 MX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38603
+#EXTINF:-1,SPA |FOX SPORTS
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10925
+#EXTINF:-1,SPA | FOX SPORTS 2
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3043
+#EXTINF:-1,SPA | FOX SPORTS 3
+hhttp://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3044
+#EXTINF:-1,SPA |FX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9105
+#EXTINF:-1,SPA |FMX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9079
+#EXTINF:-1,SPA |GOLDEN EDGE
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9076
+#EXTINF:-1,SPA |GOLDEN PLUS
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3051
+#EXTINF:-1,SPA |GOLDEN PREMIER
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3052
+#EXTINF:-1,SPA |HISTORY
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9050
+#EXTINF:-1,SPA |HISTORY 2
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/273073
+#EXTINF:-1,SPA |LAS ESTRELLAS
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3005
+#EXTINF:-1,SPA |NAT GEO
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8725
+#EXTINF:-1,SPA |SPACE
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9136
+#EXTINF:-1,SPA |TUDN MX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31784
+#EXTINF:-1,SPA |TNT SERIES
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9139
+#EXTINF:-1,SPA |SONY CHANNEL
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9115
+#EXTINF:-1,SPA |AXN
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9138
+#EXTINF:-1,SPA |AMC
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9083
+#EXTINF:-1,SPA |ANIMAL PLANET
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298043
+#EXTINF:-1,SPA |AZTECA MUNDO
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297204
+#EXTINF:-1,SPA |AZTECA 7
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9026
+#EXTINF:-1,SPA |AZTECA UNO
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9025
+#EXTINF:-1,SPA |CINEMAX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9080
+#EXTINF:-1,SPA |CARTOON NETWORK
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9043
