@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,SPA |Canal  21 Mega visión
+#EXTINF:-1,SV|Canal  21 Mega visión
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1,SPA |DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -30,7 +30,7 @@ http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10925
 #EXTINF:-1,SPA | FOX SPORTS 2
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3043
 #EXTINF:-1,SPA | FOX SPORTS 3
-hhttp://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3044
+http://45.5.119.146:4000/play/a049/index.m3u8
 #EXTINF:-1,SPA |FX
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9105
 #EXTINF:-1,SPA |FMX
@@ -242,3 +242,27 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/4962
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4961
 #EXTINF:-1,SUR | HBO MUNDI
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4800
+#EXTINF:-1,SV | TIGO SPORT ELSALVADOR
+http://00322.xyz:8000/rances123/9IFBBCRBIX/4800
+#EXTINF:-1,SV | CANAL 10
+http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/154998.ts
+#EXTINF:-1,SV | CANAL 19
+http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/122638.ts
+#EXTINF:-1,SV | CANAL 2
+http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/122635.ts
+#EXTINF:-1,SV | CANAL 23
+http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/122645.ts
+#EXTINF:-1,SV | CANAL 25
+http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/122642.ts
+#EXTINF:-1,SV | TCS CANAL 35
+http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/68352.ts
+#EXTINF:-1,SV | CANAL 4
+http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/68349.ts
+#EXTINF:-1,SV | CANAL 6
+http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/124977.ts
+#EXTINF:-1,SV | CANAL LIGISLATIVO
+http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/167320.ts
+#EXTINF:-1,SV | CANAL 12
+http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/124976.ts
+#EXTINF:-1,SV | WOW TV
+http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/124979.ts
