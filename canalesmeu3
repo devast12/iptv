@@ -31,7 +31,7 @@ http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10925
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3043
 #EXTINF:-1,SPA | FOX SPORTS 3
 http://45.5.119.146:4000/play/a049/index.m3u8
-#EXTINF:-1,SPA |FX
+#EXTINF:-1,SPA |FX CENTRO
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9105
 #EXTINF:-1,SPA |FMX
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9079
@@ -42,13 +42,13 @@ http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3051
 #EXTINF:-1,SPA |GOLDEN PREMIER
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3052
 #EXTINF:-1,SPA |HISTORY
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9050
+http://tv.fullytv.com:8080/benjaminmama/55778899/1155804
 #EXTINF:-1,SPA |HISTORY 2
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/273073
+http://tv.fullytv.com:8080/benjaminmama/55778899/4005
 #EXTINF:-1,SPA |LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,SPA |NAT GEO
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8725
+http://tv.fullytv.com:8080/benjaminmama/55778899/4097
 #EXTINF:-1,SPA |SPACE
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9136
 #EXTINF:-1,SPA |TUDN MX
@@ -217,7 +217,7 @@ http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/10760
 #EXTINF:-1,MX: Discovery Kids HD
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/302625
 #EXTINF:-1,MX: Nickelodeon HD
-http://00322.xyz:8000/rances123/9IFBBCRBIX/3023
+http://tv.fullytv.com:8080/benjaminmama/55778899/4058
 #EXTINF:-1,MX: Tooncast HD
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/302735
 #EXTINF:-1,MX: Discovery Channel HD 
@@ -238,8 +238,8 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/132600
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4963
 #EXTINF:-1,SPA: HBO 2 SD
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4962
-#EXTINF:-1,SPA: HBO SD
-http://00322.xyz:8000/rances123/9IFBBCRBIX/4961
+#EXTINF:-1,SPA: HBO 1
+http://tv.fullytv.com:8080/benjaminmama/55778899/1155792
 #EXTINF:-1,SUR | HBO MUNDI
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4800
 #EXTINF:-1,SV | TIGO SPORT ELSALVADOR
@@ -268,3 +268,23 @@ http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/124976.ts
 http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/124979.ts
 #EXTINF:-1,SPA |12 CORAZONES
 http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/339651.ts
+#EXTINF:-1,ARG |DIRECTV SPORTS PLUS SD
+http://tv.fullytv.com:8080/benjaminmama/55778899/8520
+#EXTINF:-1,US |TUDN USA
+http://tv.fullytv.com:8080/benjaminmama/55778899/1156010
+#EXTINF:-1,MX |TUDN MX
+http://tv.fullytv.com:8080/benjaminmama/55778899/1105665
+#EXTINF:-1,SPA |TELEMUNDO INTERNACIONAL
+http://tv.fullytv.com:8080/benjaminmama/55778899/43189
+#EXTINF:-1,MX |TELEMUNDO MX
+http://tv.fullytv.com:8080/benjaminmama/55778899/3794
+#EXTINF:-1,SPA|FX SUR
+http://tv.fullytv.com:8080/benjaminmama/55778899/1155789
+#EXTINF:-1,MX|WarnerChannel MX
+http://tv.fullytv.com:8080/benjaminmama/55778899/1155808
+#EXTINF:-1,US |UNIMAS 
+http://tv.fullytv.com:8080/benjaminmama/55778899/3795
+#EXTINF:-1,US |DISCOVERY SCIENCE 
+http://tv.fullytv.com:8080/benjaminmama/55778899/1155818
+#EXTINF:-1,US |DISCOVERY WORLD
+http://tv.fullytv.com:8080/benjaminmama/55778899/1155812
