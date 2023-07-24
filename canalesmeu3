@@ -1,8 +1,24 @@
 #EXTM3U
-#EXTINF:-1,SV|Canal  21 Mega visión
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1,SPA |DW ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,SPA |ESPN SUR
+http://tv.fullytv.com:8080/benjaminmama/55778899/1155888
+#EXTINF:-1,SPA |ESPN 2 SUR
+http://tv.fullytv.com:8080/benjaminmama/55778899/43637
+#EXTINF:-1,SPA |ESPN 3 SUR
+http://tv.fullytv.com:8080/benjaminmama/55778899/1155890
+#EXTINF:-1,SPA |ESPN 4 SUR
+http://tv.fullytv.com:8080/benjaminmama/55778899/1118360
+#EXTINF:-1,SPA |ESPN EXTRA SUR
+http://tv.fullytv.com:8080/benjaminmama/55778899/7940
+#EXTINF:-1,SPA |ESPN CHILE
+http://tv.fullytv.com:8080/benjaminmama/55778899/1080110
+#EXTINF:-1,SPA |ESPN MX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9070
+#EXTINF:-1,SPA |ESPN 2 MX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298057
+#EXTINF:-1,SPA |ESPN 3 MX
+http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38603
+#EXTINF:-1,SPA |ESPN EXTRA MX
+http://tv.fullytv.com:8080/benjaminmama/55778899/4120
 #EXTINF:-1,SPA |SPACE SUR
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/34566
 #EXTINF:-1,SPA |TELEFE ARG
@@ -19,12 +35,6 @@ http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9126
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9042
 #EXTINF:-1,SPA |DREAM WORKS MX
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298055
-#EXTINF:-1,SPA |ESPN MX
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9070
-#EXTINF:-1,SPA |ESPN 2 MX
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298057
-#EXTINF:-1,SPA |ESPN 3 MX
-http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38603
 #EXTINF:-1,SPA |FOX SPORTS
 http://aanax.com:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10925
 #EXTINF:-1,SPA | FOX SPORTS 2
@@ -266,6 +276,10 @@ http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/167320.ts
 http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/124976.ts
 #EXTINF:-1,SV | WOW TV
 http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/124979.ts
+#EXTINF:-1,SV|Canal  21 Mega visión
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+#EXTINF:-1,SPA |DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,SPA |12 CORAZONES
 http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/339651.ts
 #EXTINF:-1,ARG |DIRECTV SPORTS PLUS SD
